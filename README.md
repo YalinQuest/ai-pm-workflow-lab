@@ -15,6 +15,7 @@ Prompt
   -> Agent / Multi-turn Agent
   -> RAG
   -> MCP / LangChain
+  -> Token / Context
 ```
 
 ## 概念笔记
@@ -31,6 +32,7 @@ Prompt
 | 08 | [RAG](concepts/08-rag.md) | 怎样检索外部资料，再让模型基于资料回答？ |
 | 09 | [MCP](concepts/09-mcp.md) | 怎样用标准协议连接外部工具和数据？ |
 | 10 | [LangChain](concepts/10-langchain.md) | 应用框架怎样连接模型、Prompt、检索器和工具？ |
+| 11 | [Token 和 Context](concepts/11-token-and-context.md) | 模型如何处理文本，以及应用怎样管理有限的上下文空间？ |
 
 ## 实验方向
 
