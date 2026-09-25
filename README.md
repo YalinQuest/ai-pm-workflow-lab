@@ -17,6 +17,7 @@ Prompt
   -> MCP / LangChain
   -> Token / Context
   -> Temperature / Sampling
+  -> Evals
 ```
 
 ## 概念笔记
@@ -35,6 +36,7 @@ Prompt
 | 10 | [LangChain](concepts/10-langchain.md) | 应用框架怎样连接模型、Prompt、检索器和工具？ |
 | 11 | [Token 和 Context](concepts/11-token-and-context.md) | 模型如何处理文本，以及应用怎样管理有限的上下文空间？ |
 | 12 | [Temperature 和 Sampling](concepts/12-temperature-and-sampling.md) | 模型怎样根据概率分布选择下一个 Token，并在稳定性和多样性之间取舍？ |
+| 13 | [Evals](concepts/13-evals.md) | 怎样用测试样例和评价标准判断 AI 应用是否按预期工作？ |
 
 ## 实验方向
 
