@@ -18,6 +18,7 @@ Prompt
   -> Token / Context
   -> Temperature / Sampling
   -> Evals
+  -> Trace / Observability
 ```
 
 ## 概念笔记
@@ -37,6 +38,7 @@ Prompt
 | 11 | [Token 和 Context](concepts/11-token-and-context.md) | 模型如何处理文本，以及应用怎样管理有限的上下文空间？ |
 | 12 | [Temperature 和 Sampling](concepts/12-temperature-and-sampling.md) | 模型怎样根据概率分布选择下一个 Token，并在稳定性和多样性之间取舍？ |
 | 13 | [Evals](concepts/13-evals.md) | 怎样用测试样例和评价标准判断 AI 应用是否按预期工作？ |
+| 14 | [Trace 和 Observability](concepts/14-trace-and-observability.md) | 怎样记录 AI 请求的执行路径，并观察系统整体运行状况？ |
 
 ## 实验方向
 
